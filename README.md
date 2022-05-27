@@ -5,37 +5,21 @@ Object Oriented Design and Programming Class
 
 **Results**
 
-#### Member <br> <br>
+#### Read <br> <br>
 
-![alt text](https://github.com/driskimaulana/LATIHAN11DPBO2022/blob/master/ScreenShots/member.png)
+![alt text](https://github.com/driskimaulana/LATIHAN12DPBO2022/blob/master/screenshots/read.png)
 
-#### Add Member <br> <br>
+#### Create <br> <br>
 
-![alt text](https://github.com/driskimaulana/LATIHAN11DPBO2022/blob/master/ScreenShots/add_member.gif)
+![alt text](https://github.com/driskimaulana/LATIHAN12DPBO2022/blob/master/screenshots/create.gif)
 
-#### Update Member <br> <br>
+#### Update <br> <br>
 
-![alt text](https://github.com/driskimaulana/LATIHAN11DPBO2022/blob/master/ScreenShots/update_member.gif)
+![alt text](https://github.com/driskimaulana/LATIHAN12DPBO2022/blob/master/screenshots/update.gif)
 
-#### Delete Member <br> <br>
+#### Delete <br> <br>
 
-![alt text](https://github.com/driskimaulana/LATIHAN11DPBO2022/blob/master/ScreenShots/delete_member.gif)
-
-#### Peminjaman <br> <br>
-
-![alt text](https://github.com/driskimaulana/LATIHAN11DPBO2022/blob/master/ScreenShots/peminjaman.png)
-
-#### Add Peminjaman <br> <br>
-
-![alt text](https://github.com/driskimaulana/LATIHAN11DPBO2022/blob/master/ScreenShots/add_peminjaman.gif)
-
-#### Update Peminjaman <br> <br>
-
-![alt text](https://github.com/driskimaulana/LATIHAN11DPBO2022/blob/master/ScreenShots/update_peminjaman.gif)
-
-#### Delete Peminjaman <br> <br>
-
-![alt text](https://github.com/driskimaulana/LATIHAN11DPBO2022/blob/master/ScreenShots/delete_peminjaman.gif)
+![alt text](https://github.com/driskimaulana/LATIHAN12DPBO2022/blob/master/screenshots/delete.gif)
 
 ## Terima Kasih
 
